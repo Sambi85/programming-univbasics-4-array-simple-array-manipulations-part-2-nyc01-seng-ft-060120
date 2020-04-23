@@ -4,6 +4,6 @@ end
 
 def using_insert(array,element)
 array =  array.insert(3, element)
-array
+pp array
 end
 
