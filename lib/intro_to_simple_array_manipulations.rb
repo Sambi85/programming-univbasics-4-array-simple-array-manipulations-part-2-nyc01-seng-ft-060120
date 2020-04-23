@@ -7,3 +7,6 @@ array =  array.insert(4, element)
 pp array
 end
 
+def using_uniq(array)
+  array.uniq
+end
